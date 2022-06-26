@@ -1,0 +1,51 @@
+body{
+  background: #667684;
+}
+
+.hero-title{
+  position: absolute;
+  left: 35.5%;
+  top: -15%;
+  font-family: cursive;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 90px;
+  line-height: 400px;
+  
+  color: #FFFFFF;
+  
+  text-shadow: 4px 4px #000000;
+}
+
+img{
+  position: absolute;
+  width: 150px;
+  height: 150px;
+  left: 400px;
+  top: 60px;
+}
+
+a {
+  position: absolute;
+  left: 730px;
+  top: 430px;
+}
+
+#frm{
+  position: absolute;
+  left: 37%;
+  top: 18%;
+  border: solid black 2px;
+  width: 20%;
+  border-radius: 5px;
+  margin: 100px auto;
+  background: white;
+  padding: 50px;
+}
+
+#btn{
+  color: #fff;
+  background: #337ab7;
+  padding: 5px;
+  margin-left: 69%;
+}
