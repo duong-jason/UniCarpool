@@ -13,6 +13,10 @@
   <div pic="logo">
     <img src="UniCarpoolLogo1.png">
   </div>
+
+  <div>
+    <img src="UniCarpoolLogo1.png" style="position:absolute;width: 150px;height:150px;left:992px;top:60px;">
+  </div>
   
   <div id="frm">
     <form action="index.php" method="POST">
